@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1,DAZN 1
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A84%3AB%3A85%3AFFFF024A%3A0%3A0%3A0%3A&name=DAZN+1&fname=DAZN+1&device=etc
+#EXTINF:-1,DAZN 2
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A7A%3AB%3A85%3AFFFF024A%3A0%3A0%3A0%3A&name=DAZN+2&fname=DAZN+2&device=etc
+#EXTINF:-1,Sky Sport 1
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A10C%3A6%3A85%3AFFFF023A%3A0%3A0%3A0%3A&name=Sky+Sport+1&fname=Sky+Sport+1&device=etc
+#EXTINF:-1,Sky Sport 2
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A116%3A2%3A85%3AFFFF021A%3A0%3A0%3A0%3A&name=Sky+Sport+2&fname=Sky+Sport+2&device=etc
+#EXTINF:-1,Sky Sport 3
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A120%3AC%3A85%3AFFFF0242%3A0%3A0%3A0%3A&name=Sky+Sport+3&fname=Sky+Sport+3&device=etc
+#EXTINF:-1,Sky Sport 4
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A12A%3A4%3A85%3AFFFF0232%3A0%3A0%3A0%3A&name=Sky+Sport+4&fname=Sky+Sport+4&device=etc
+#EXTINF:-1,Sky Sport Bundesliga
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A69%3AC%3A85%3AFFFF0242%3A0%3A0%3A0%3A&name=Sky+Sport+Bundesliga&fname=Sky+Sport+Bundesliga&device=etc
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A10B%3A6%3A85%3AFFFF023A%3A0%3A0%3A0%3A&name=Sky+Sport+Bundesliga+1&fname=Sky+Sport+Bundesliga+1&device=etc
+#EXTINF:-1,Sky Sport Bundesliga 2
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A115%3A2%3A85%3AFFFF021A%3A0%3A0%3A0%3A&name=Sky+Sport+Bundesliga+2&fname=Sky+Sport+Bundesliga+2&device=etc
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A11F%3AC%3A85%3AFFFF0242%3A0%3A0%3A0%3A&name=Sky+Sport+Bundesliga+3&fname=Sky+Sport+Bundesliga+3&device=etc
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A129%3A4%3A85%3AFFFF0232%3A0%3A0%3A0%3A&name=Sky+Sport+Bundesliga+4&fname=Sky+Sport+Bundesliga+4&device=etc
+#EXTINF:-1,Sky Sport Bundesliga 5
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A133%3A4%3A85%3AFFFF0232%3A0%3A0%3A0%3A&name=Sky+Sport+Bundesliga+5&fname=Sky+Sport+Bundesliga+5&device=etc
+#EXTINF:-1,Sky Sport Bundesliga UHD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A1F%3A228%3A10%3A85%3AFFFF0222%3A0%3A0%3A0%3A&name=Sky+Sport+Bundesliga+UHD&fname=Sky+Sport+Bundesliga+UHD&device=etc
+#EXTINF:-1,Sky Sport UHD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A1F%3A229%3A10%3A85%3AFFFF0222%3A0%3A0%3A0%3A&name=Sky+Sport+UHD&fname=Sky+Sport+UHD&device=etc
+#EXTINF:-1,Das Erste HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A283D%3AF002%3AF101%3AFFFF013A%3A0%3A0%3A0%3A&name=Das+Erste+HD&fname=Das+Erste+HD&device=etc
+#EXTINF:-1,ZDF HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A2B66%3AF003%3AF101%3AFFFF0142%3A0%3A0%3A0%3A&name=ZDF+HD&fname=ZDF+HD&device=etc
+#EXTINF:-1,RTL HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A12D%3A1EDC%3A9C%3AFFFF0192%3A0%3A0%3A0%3A&name=RTL+HD&fname=RTL+HD&device=etc
+#EXTINF:-1,RTL UHD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A1F%3A1601%3AD006%3AF101%3AFFFF01FA%3A0%3A0%3A0%3A&name=RTL+UHD&fname=RTL+UHD&device=etc
+#EXTINF:-1,RTLZWEI HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A1A1%3A1964%3A9C%3AFFFF0182%3A0%3A0%3A0%3A&name=RTLZWEI+HD&fname=RTLZWEI+HD&device=etc
+#EXTINF:-1,RTLZWEI
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A1%3A102%3AC001%3AF101%3AFFFF01AA%3A0%3A0%3A0%3A&name=RTLZWEI&fname=RTLZWEI&device=etc
+#EXTINF:-1,SAT.1 HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A12F%3A1EDC%3A9C%3AFFFF0192%3A0%3A0%3A0%3A&name=SAT.1+HD&fname=SAT.1+HD&device=etc
+#EXTINF:-1,SAT.1 NRW
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A1%3A11C6%3AD001%3AF101%3AFFFF01DA%3A0%3A0%3A0%3A&name=SAT.1+NRW&fname=SAT.1+NRW&device=etc
+#EXTINF:-1,ProSieben
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A1%3A302%3AC003%3AF101%3AFFFF01BA%3A0%3A0%3A0%3A&name=ProSieben&fname=ProSieben&device=etc
+#EXTINF:-1,ProSieben HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A130%3A1EDC%3A9C%3AFFFF0192%3A0%3A0%3A0%3A&name=ProSieben+HD&fname=ProSieben+HD&device=etc
+#EXTINF:-1,ProSieben MAXX HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3AC9%3A14B4%3A9C%3AFFFF018A%3A0%3A0%3A0%3A&name=ProSieben+MAXX+HD&fname=ProSieben+MAXX+HD&device=etc
+#EXTINF:-1,sixx
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A1%3A30A%3AC003%3AF101%3AFFFF01BA%3A0%3A0%3A0%3A&name=sixx&fname=sixx&device=etc
+#EXTINF:-1,sixx HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A1A0%3A1964%3A9C%3AFFFF0182%3A0%3A0%3A0%3A&name=sixx+HD&fname=sixx+HD&device=etc
+#EXTINF:-1,Sky Cinema Action
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A74%3A4%3A85%3AFFFF0232%3A0%3A0%3A0%3A&name=Sky+Cinema+Action&fname=Sky+Cinema+Action&device=etc
+#EXTINF:-1,Sky Cinema Blockbuster
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A6F%3AD%3A85%3AFFFF022A%3A0%3A0%3A0%3A&name=Sky+Cinema+Blockbuster&fname=Sky+Cinema+Blockbuster&device=etc
+#EXTINF:-1,Sky Cinema Classics
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A6B%3AC%3A85%3AFFFF0242%3A0%3A0%3A0%3A&name=Sky+Cinema+Classics&fname=Sky+Cinema+Classics&device=etc
+#EXTINF:-1,Sky Cinema Halloween
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A83%3A6%3A85%3AFFFF023A%3A0%3A0%3A0%3A&name=Sky+Cinema+Halloween&fname=Sky+Cinema+Halloween&device=etc
+#EXTINF:-1,Sky Cinema Spooky
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A8B%3A2%3A85%3AFFFF021A%3A0%3A0%3A0%3A&name=Sky+Cinema+Spooky&fname=Sky+Cinema+Spooky&device=etc
+#EXTINF:-1,Sky Crime
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3AD%3A6%3A85%3AFFFF023A%3A0%3A0%3A0%3A&name=Sky+Crime&fname=Sky+Crime&device=etc
+#EXTINF:-1,Sky Documentaries
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A70%3AD%3A85%3AFFFF022A%3A0%3A0%3A0%3A&name=Sky+Documentaries&fname=Sky+Documentaries&device=etc
+#EXTINF:-1,Sky Krimi
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A17%3A4%3A85%3AFFFF0232%3A0%3A0%3A0%3A&name=Sky+Krimi&fname=Sky+Krimi&device=etc
+#EXTINF:-1,Sky Nature
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A76%3A6%3A85%3AFFFF023A%3A0%3A0%3A0%3A&name=Sky+Nature&fname=Sky+Nature&device=etc
+#EXTINF:-1,Sky One
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A93%3A2%3A85%3AFFFF021A%3A0%3A0%3A0%3A&name=Sky+One&fname=Sky+One&device=etc
+#EXTINF:-1,Sky Sci-Fi
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A7E%3AC%3A85%3AFFFF0242%3A0%3A0%3A0%3A&name=Sky+Sci-Fi&fname=Sky+Sci-Fi&device=etc
+#EXTINF:-1,Sky Sport Austria 1
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A8F%3A4%3A85%3AFFFF0232%3A0%3A0%3A0%3A&name=Sky+Sport+Austria+1&fname=Sky+Sport+Austria+1&device=etc
+#EXTINF:-1,Sky Sport Austria 2
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A149%3AD%3A85%3AFFFF022A%3A0%3A0%3A0%3A&name=Sky+Sport+Austria+2&fname=Sky+Sport+Austria+2&device=etc
+#EXTINF:-1,Sky Sport Austria 3
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A153%3A2%3A85%3AFFFF021A%3A0%3A0%3A0%3A&name=Sky+Sport+Austria+3&fname=Sky+Sport+Austria+3&device=etc
+#EXTINF:-1,TV 8 INT
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A1%3A4E2%3A1FA4%3A9C%3AFFFF016A%3A0%3A0%3A0%3A&name=TV+8+INT&fname=TV+8+INT&device=etc
+#EXTINF:-1,VOX HD
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A12E%3A1EDC%3A9C%3AFFFF0192%3A0%3A0%3A0%3A&name=VOX+HD&fname=VOX+HD&device=etc
+#EXTINF:-1,WDR HD Dortmund
+http://192.168.178.105/web/stream.m3u?ref=1%3A0%3A19%3A6EB0%3AD007%3AF101%3AFFFF020A%3A0%3A0%3A0%3A&name=WDR+HD+Dortmund&fname=WDR+HD+Dortmund&device=etc
